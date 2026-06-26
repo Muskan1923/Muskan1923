@@ -25,7 +25,7 @@
 
 ## 🛠️ Skills & Tools
 
-* **Languages:** Python, SQL, C, C++  
+* **Languages:** Python, SQL
 * **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit Learn
 * **Tools:** Power BI, Excel  
 * **Databases:** MySQL, PostgreSQL  
@@ -35,7 +35,7 @@
 
 ## 📜 Certifications
 
-* ✅ Python for Data Science (Udemy)  
+* ✅ Data Analysis Certification
 * ✅ Power BI Certification  
 * ✅ Data Analytics & Visualization Courses  
 
